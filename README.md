@@ -1,5 +1,5 @@
 # Machine-Learning-Expert-in-3-Months
-Machine learning Expert in 3 Months
+Machine learning Expert in 3 Months (Curriculum)
 
 # Month 1
 ## Week 1 Linear Algebra
@@ -26,17 +26,24 @@ https://www.youtube.com/watch?v=xRJCOz3AfYY&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_
 https://www.youtube.com/watch?v=2FmcHiLCwTU&list=PL2-dafEMk2A7EEME489DsI468AB0wQsMV
 
 ## Week 2
-### Intro to ML (Udacity) https://eu.udacity.com/course/intro-to-machine-learning--ud120
+### Intro to ML (Udacity)
+https://eu.udacity.com/course/intro-to-machine-learning--ud120
 
 ## Week 3-4
-### ML Project Ideas https://github.com/NirantK/awesome-project-ideas
+### ML Project Ideas
+https://github.com/NirantK/awesome-project-ideas
 
 # Month 3 (Deep Learning)
 ## Week 1
-### Intro to Deep Learning https://www.youtube.com/watch?v=vOppzHpvTiQ&list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3
+### Intro to Deep Learning
+https://www.youtube.com/watch?v=vOppzHpvTiQ&list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3
 
 ## Week 2
-### Deep Learning by Fast.AI http://course.fast.ai/
+### Deep Learning by Fast.AI
+http://course.fast.ai/
 
-Week 3-4
-Re-implement DL projects from my github https://github.com/llSourcell?tab=repositories
+## Week 3-4
+Re-implement DL projects from my github https://github.com/JunaidAsghar?tab=repositories
+Re-implement DL projects from Siraj Raval github https://github.com/llSourcell?tab=repositories
+
+Credits: Siraj Raval
